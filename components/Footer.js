@@ -37,7 +37,6 @@ function Footer() {
                 <p>code</p>
                 <p>project</p>
             </div>
-
         </div>
     )
 }
