@@ -1,4 +1,6 @@
-# AIRBNB Clone using Next.js and Tailwind CSS
+# AIRBNB Clone using Next.js and Tailwind CSS(under construction)
+Link: https://t.co/ZNHrEiE5Qy?amp=1
+
 <img width="1344" alt="Screenshot 2021-08-31 at 6 04 12 PM" src="https://user-images.githubusercontent.com/72748253/131551833-53516774-42ef-4ade-8d08-ee20937cb413.png">
 <img width="1344" alt="Screenshot 2021-08-31 at 6 03 20 PM" src="https://user-images.githubusercontent.com/72748253/131551857-679af7e1-69b5-4f91-9378-538f52a061d7.png">
 <img width="1344" alt="Screenshot 2021-08-31 at 12 13 50 AM" src="https://user-images.githubusercontent.com/72748253/131551859-a2e72830-7fdb-44e6-9cf6-0ebcc7082be8.png">
