@@ -1,29 +1,7 @@
-# Made using Next.js + Tailwind CSS (under construction)
+# AIRBNB Clone using Next.js and Tailwind CSS
+<img width="1344" alt="Screenshot 2021-08-31 at 6 04 12 PM" src="https://user-images.githubusercontent.com/72748253/131551833-53516774-42ef-4ade-8d08-ee20937cb413.png">
+<img width="1344" alt="Screenshot 2021-08-31 at 6 03 20 PM" src="https://user-images.githubusercontent.com/72748253/131551857-679af7e1-69b5-4f91-9378-538f52a061d7.png">
+<img width="1344" alt="Screenshot 2021-08-31 at 12 13 50 AM" src="https://user-images.githubusercontent.com/72748253/131551859-a2e72830-7fdb-44e6-9cf6-0ebcc7082be8.png">
+<img width="1344" alt="Screenshot 2021-08-31 at 12 13 59 AM" src="https://user-images.githubusercontent.com/72748253/131551873-df570fe8-4526-403c-9360-0a46d7572878.png">
+![WhatsApp Image 2021-08-31 at 6 07 35 PM](https://user-images.githubusercontent.com/72748253/131551888-e15d87e3-aa7e-4bb2-9393-620a1d74df69.jpeg)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
