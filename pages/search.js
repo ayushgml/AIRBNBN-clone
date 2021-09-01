@@ -3,6 +3,7 @@ import { useRouter } from "next/dist/client/router";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Infocard from "../components/Infocard";
+import Map from "../components/Map";
 
 function Search({searchResults}) {
     const router = useRouter();
@@ -46,6 +47,9 @@ function Search({searchResults}) {
                     </div>
 
                     
+                </section>
+                <section className="flex flex-col md:flex md:min-w-[600px]">
+                    <Map/>
                 </section>
             </main>
             
